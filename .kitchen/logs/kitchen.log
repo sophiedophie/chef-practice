@@ -1,0 +1,3 @@
+I, [2019-08-20T06:37:20.178305 #6492]  INFO -- Kitchen: -----> Starting Kitchen (v2.2.5)
+I, [2019-08-20T06:38:25.153179 #6492]  INFO -- Kitchen: -----> Destroying <default-windows-2012r2>...
+I, [2019-08-20T06:38:26.693539 #6492]  INFO -- Kitchen: -----> Kitchen is finished. (1m4.24s)

@@ -1,0 +1,51 @@
+{
+  "revision_id": "2655c5fd57d185a38856451f5ee4ed2b4c431eea6bc604db08cd316629c4f883",
+  "name": "workstation",
+  "run_list": [
+    "recipe[workstation::default]"
+  ],
+  "included_policy_locks": [
+
+  ],
+  "cookbook_locks": {
+    "workstation": {
+      "version": "0.1.0",
+      "identifier": "63a46d7b0e6e06bad5d85765623cdf3f0041b05f",
+      "dotted_decimal_identifier": "28046812817288710.52589470824096316.245461680238687",
+      "source": ".",
+      "cache_key": null,
+      "scm_info": {
+        "scm": "git",
+        "remote": null,
+        "revision": "21ba8688f81a2c50264167aa2ff06c763c08f1fb",
+        "working_tree_clean": false,
+        "published": false,
+        "synchronized_remote_branches": [
+
+        ]
+      },
+      "source_options": {
+        "path": "."
+      }
+    }
+  },
+  "default_attributes": {
+
+  },
+  "override_attributes": {
+
+  },
+  "solution_dependencies": {
+    "Policyfile": [
+      [
+        "workstation",
+        ">= 0.0.0"
+      ]
+    ],
+    "dependencies": {
+      "workstation (0.1.0)": [
+
+      ]
+    }
+  }
+}

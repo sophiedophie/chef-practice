@@ -1,0 +1,3 @@
+I, [2019-08-20T06:38:25.153360 #6492]  INFO -- default-windows-2012r2: -----> Destroying <default-windows-2012r2>...
+I, [2019-08-20T06:38:26.690470 #6492]  INFO -- default-windows-2012r2: EC2 instance <i-00dda97c02b87c17d> destroyed.
+I, [2019-08-20T06:38:26.692541 #6492]  INFO -- default-windows-2012r2: Finished destroying <default-windows-2012r2> (0m1.54s).
